@@ -1,6 +1,5 @@
 # 🚨 Proprietary License Agreement
 
-© 2025 **Hỏi Dân IT**. All Rights Reserved.  
 
 This source code is provided **exclusively** for students enrolled in **Java Spring MVC - Xây Dựng FullStack Website với Spring Boot**.  
 
@@ -20,12 +19,9 @@ This source code is provided **exclusively** for students enrolled in **Java Spr
 
 ---
 
-## ⚠️ CONSEQUENCES OF VIOLATION  
-If you **share this source code without permission**, it is considered a **copyright violation**.  
-
 📢 **Violators may face:**  
 - DMCA takedown requests.  
 - Account suspension on learning platforms.  
 - Legal action in serious cases.  
 
-For permissions or inquiries, contact: **admin@hoidanit.vn**  
+
